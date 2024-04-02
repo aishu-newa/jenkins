@@ -1,5 +1,3 @@
-# jenkins
-pipeline 
 # what is mean by pipeline?
 pipeline is nothing but a series of events that are connected together to make a quick software release.
 #CICD 
